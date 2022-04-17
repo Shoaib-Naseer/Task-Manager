@@ -10,7 +10,8 @@ const db_URI = process.env.MONGO_URI;
 
 //middleware
 app.use(express.json());
-app.use('/api/v1/', tasks);
+app.use(express.static('./public'));
+app.use('/api/v1/tasks', tasks);
 
 // app.get('api/v1/tasks')          -get all tasks
 // app.post('api/v1/tasks')         -create a new task
