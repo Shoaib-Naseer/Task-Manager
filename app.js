@@ -6,8 +6,8 @@ const connectDB = require('./DB/dbconnection');
 require('dotenv').config();
 
 const port = process.env.PORT || 3000;
-const db_URI = 'mongodb://localhost:27017/TaskManager';
-
+const db_URI =
+  'mongodb+srv://shoaib:a123@cluster0.6bk6n.mongodb.net/TASK_MANAGER?retryWrites=true&w=majority';
 //middleware
 app.use(express.json());
 app.use(express.static('./public'));
