@@ -13,7 +13,17 @@ Task manager application built using **NODE JS** and **MongoDB**. It follows a *
 - Delete a Task
 
 ## ScreenShots
+
+## Home Page
+
 ![command line in ide](https://raw.githubusercontent.com/Shoaib-Naseer/Task-Manager/master/screenshots/Screenshot%201.png)
+
+## Updating Task Page
+
+![command line in ide](https://github.com/Shoaib-Naseer/Task-Manager/blob/master/screenshots/Screenshot%202.png?raw=true)
+
+
+
 ## API Endpoints
 
 | Methods | Endpoints                          | Access  | Description                              |
