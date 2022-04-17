@@ -34,17 +34,11 @@ Task manager application built using **NODE JS** and **MongoDB**. It follows a *
 | PATCH   | /tasks/:id                         | Public  | Update a Task                            |
 | DELETE  | /tasks/:id                         | Public  | Delete a Task                            |
 
-## Hosted Domain Link
 
-[Task Manager API](https://kater-task-manager-api.herokuapp.com/)
-
-## Postman Collection Link
-
-[Task Manager API Shared Collection](https://documenter.getpostman.com/view/7972459/Szf82npY)
 
 ## Contributing
 
-You can fork the repository and send pull request or reach out easily to me via twitter => [Kater Akeren](https://twitter.com/katerakeren)
+You can fork the repository and send pull request or reach out easily to me via twitter => [Shoaib Naseer](https://github.com/Shoaib-Naseer)
 
 ## Security Vulnerabilities
 
