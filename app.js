@@ -6,7 +6,7 @@ const connectDB = require('./DB/dbconnection');
 require('dotenv').config();
 
 const port = process.env.PORT || 3000;
-const db_URI = process.env.MONGO_URI;
+const db_URI = 'mongodb://localhost:27017/TaskManager';
 
 //middleware
 app.use(express.json());
